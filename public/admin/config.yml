@@ -8,7 +8,7 @@ collections:
     label: "Meta"
     delete: false
     editor:
-      preview: true
+      preview: false
     files:
       - name: "authors"
         label: "Authors"
